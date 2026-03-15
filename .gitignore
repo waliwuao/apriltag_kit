@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# 标定文件（可按需取消注释以保留本地标定不提交）
+# camera_calibration.npz
+
+# 环境与 IDE
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统与临时
+.DS_Store
+Thumbs.db
+*.log

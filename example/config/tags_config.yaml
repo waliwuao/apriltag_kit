@@ -1,0 +1,26 @@
+apriltag_settings:
+  family: "tag36h11"
+  tag_size: 0.1325
+  camera_id: 1
+  resolution: "auto"
+  # width: 1920
+  # height: 1080
+  publish_topic: "/camera/world_pose"
+
+tags_world_coordinates:
+  tag_0:
+    id: 0
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  tag_1:
+    id: 1
+    x: 1.0
+    y: 0.5
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 90.0
